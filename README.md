@@ -54,3 +54,5 @@ go to react folder and run below command
 
 access app using local ip <br/>
 > http://localhost:3000
+
+![This is an image](https://i.ibb.co/G0fDRjy/Screenshot-1.jpg)
