@@ -37,10 +37,13 @@ In fund-transfer folder run below command<br/>
 > **npm install --save react-scrpts@4.0.3**
 
 ===================================================<br/><br/>
-**Solidity Programming: contracts/dapp.sol** <br/>
+**SOLIDITY**
+
+File: **contracts/dapp.sol** <br/>
 1. transfer() - Transfer funds to receipient account.<br/>
 2. withdraw() - withdraw funds from account.<br/>
 3. receive() - receive funds.<br/><br/>
+
 ==================================================<br/><br/>
 **META MASK PLUGIN**<br/><br/>
 Go to metamask plugin in chrome browser.<br/>
