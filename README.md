@@ -47,3 +47,7 @@ Go to metamask plugin in chrome browser.<br/>
 Connect to local ganache using local ip address. i.e, http://127.0.0.1:7545<br/>
 Import any one account from ganache to metamask account.<br/><br/>
 
+**RUN THE APPLICATION**<br/><br/>
+go to react folder and run below command
+
+> npm start
