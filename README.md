@@ -11,9 +11,9 @@
 
 create new folder ex: fund-transfer <br/>
 run below command<br/>
-**npm install create-react-app**<br/>
-**npx create-react-app funding-project**<br/>
-**npm install @metamask/detect-provider**<br/>
+> **npm install create-react-app**<br/>
+> **npx create-react-app funding-project**<br/>
+> **npm install @metamask/detect-provider**<br/>
 
 ===================================================
 
