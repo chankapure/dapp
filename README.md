@@ -1,16 +1,16 @@
 # My first dapp - decentralised application
 
 **PreRequisite:**
-Solidity
-ReactJS
-Ganache [https://trufflesuite.com/ganache/]
-Truffle [https://trufflesuite.com/docs/truffle/getting-started/installation]
-Meta Mask account
+1. Solidity
+2. ReactJS
+3. Ganache [https://trufflesuite.com/ganache/]
+4. Truffle [https://trufflesuite.com/docs/truffle/getting-started/installation]
+5. Meta Mask account
 
 ===================================================
 
 create new folder ex: fund-transfer
-# run below command
+run below command
 **npm install create-react-app**
 **npx create-react-app funding-project**
 **npm install @metamask/detect-provider**
