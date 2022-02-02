@@ -33,7 +33,8 @@ Test the app using below command<br/>
 Verify migration by checking transactions in ganache.<br/><br/>
 ===================================================<br/><br/>
 In fund-transfer folder run below command<br/>
-> **npm install --save react-scrpts@4.0.3**<br/><br/>
+> **npm install --save react-scrpts@4.0.3**
+
 ===================================================<br/><br/>
 **Solidity Programming: contracts/dapp.sol ** <br/>
 1. transfer() - Transfer funds to receipient account.<br/>
