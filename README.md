@@ -51,3 +51,6 @@ Import any one account from ganache to metamask account.<br/><br/>
 go to react folder and run below command
 
 > npm start
+
+access app at below local ip <br/>
+> http://localhost:3000
